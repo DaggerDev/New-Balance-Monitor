@@ -5,4 +5,4 @@ A node.js script for monitoring New Balance shoe additions.
 
 🔥 What does it track? - It currently tracks shoe ID's, Images, Links, Name, and Price. 
 
-🔥 What is it missing - Express node module for running it as a server, Discord bot support, Database for storing already seen shoes.
+🔥 What is it missing? - Express node module for running it as a server, Discord bot support, Database for storing already seen shoes.
